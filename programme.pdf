@@ -1,2 +1,18 @@
-file:///C:/Users/isabe/Downloads/_Plan%20de%20formation-DynamiserSonActivit%C3%A9Contacto%20(5)%20(4).pdf
+<a href="https://votre-nom.github.io/nom-depot/programme.pdf">
+```
+
+Mais normalement, le lien relatif `./programme.pdf` fonctionne parfaitement ! 👌
+
+---
+
+## 📸 **RÉCAPITULATIF VISUEL**
+```
+Quand vous uploadez sur GitHub :
+
+📁 Dossier "formation-contactologie-2026"
+   ├── 📄 index.html        ← Contient le lien : href="./programme.pdf"
+   ├── 📕 programme.pdf      ← Le fichier ciblé
+   └── 📝 README.md
+
+Résultat : Le lien fonctionne automatiquement ! ✅
 
